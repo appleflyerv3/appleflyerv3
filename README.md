@@ -1,4 +1,4 @@
-ooh hey! im appleflyer.
+hello. im appleflyer.
 
 i'm a chromeOS vulnerability researcher. \
 i know c, c++, js, python, webdev. \
